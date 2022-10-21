@@ -1,8 +1,6 @@
-- 👋 Hi, I’m @ymfloresl
-- 👀 I’m interested in ... develop improvement
-- 🌱 I’m currently learning ... c and cpp
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+### Electronic enginner & Mathematician. 
+- I'm Yeferson Flores
+- I'm interested in IoT and embedded systems developing. Count with C and CPP experience. 
 
 <!---
 ymfloresl/ymfloresl is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
